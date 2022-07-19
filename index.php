@@ -47,7 +47,7 @@
           </form>
           <div class="table-responsive">
             <table class="table table-info col-md-6">
-              <thead>
+              <thead class="text-center">
                 <th>ID</th>
                 <th>Nombre</th>
                 <th>Descripción</th>
